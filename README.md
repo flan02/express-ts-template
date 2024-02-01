@@ -6,6 +6,9 @@ How to use this template:
 npx create-express-api --typescript --directory my-api-name
 ```
 
+## Link del video en youtube:
+https://www.youtube.com/watch?v=vDLE8hqzA8I
+
 Includes API Server utilities:
 
 * [morgan](https://www.npmjs.com/package/morgan)
